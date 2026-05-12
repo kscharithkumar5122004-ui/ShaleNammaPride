@@ -26,7 +26,7 @@ Charith Kumar K S
 https://shale-namma-pride.vercel.app
 
 ## GitHub Repository
-https://github.com/shreyakambar/ShaleNammaPride
+https://github.com/Charith/ShaleNammaPride
 
 ## Demo Login
 > **Email:** demologin2026@gmail.com  
